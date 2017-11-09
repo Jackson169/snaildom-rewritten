@@ -1,6 +1,6 @@
 # Snaildom Rewritten
 
-Snaildom Rewritten is an emulator for an amazing virtual world created by DamenSpike (dsghq.com) in 2015.
+Snaildom Rewritten is an emulator for an amazing virtual world created by DamenSpike (dsghq.com) in 2014-2015.
 
 ## Getting Started
 
