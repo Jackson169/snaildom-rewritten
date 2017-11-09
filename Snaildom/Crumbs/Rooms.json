@@ -1,0 +1,112 @@
+{
+  "1": {
+    "id": "thrones",
+    "name": "Throne Room",
+    "alias": "the Throne Room",
+    "isGame": "0",
+    "internal": "1"
+  },
+  "2": {
+    "id": "courtyard",
+    "name": "Royal Courtyard",
+    "isGame": "0",
+    "internal": "2"
+  },
+  "3": {
+    "id": "market",
+    "name": "Market Village",
+    "isGame": "0",
+    "internal": "3"
+  },
+  "4": {
+    "id": "furniturestore",
+    "name": "Furniture Store",
+    "isGame": "0",
+    "internal": "4"
+  },
+  "5": {
+    "id": "stylestore",
+    "name": "Clothing Store",
+    "isGame": "0",
+    "internal": "5"
+  },
+  "6": {
+    "id": "north_forest",
+    "name": "Northern Forest",
+    "isGame": "0",
+    "internal": "6"
+  },
+  "7": {
+    "id": "inn",
+    "name": "Inn",
+    "isGame": "0",
+    "internal": "7"
+  },
+  "8": {
+    "id": "clearing",
+    "name": "Clearing",
+    "isGame": "0",
+    "internal": "8"
+  },
+  "9": {
+    "id": "west_forest",
+    "name": "Western Forest",
+    "isGame": "0",
+    "internal": "9"
+  },
+  "10": {
+    "id": "library",
+    "name": "Library",
+    "isGame": "0",
+    "internal": "10"
+  },
+  "11": {
+    "id": "jousting",
+    "name": "Jousting Field",
+    "isGame": "0",
+    "internal": "11"
+  },
+  "12": {
+    "id": "blacksmith",
+    "name": "The Forge",
+    "isGame": "0",
+    "internal": "12"
+  },
+  "13": {
+    "id": "bank",
+    "name": "The Bank",
+    "isGame": "0",
+    "internal": "13"
+  },
+  "14": {
+    "id": "blackmine",
+    "name": "Black Mine",
+    "isGame": "0",
+    "internal": "14"
+  },
+  "15": {
+    "id": "damenball",
+    "name": "DamenBall Soccer",
+    "isGame": "0",
+    "internal": "15"
+  },
+
+  "900": {
+    "id": "railandcart",
+    "name": "Rail and Cart",
+    "isGame": "1",
+    "internal": "900"
+  },
+  "901": {
+    "id": "marksman",
+    "name": "Bow something",
+    "isGame": "1",
+    "internal": "901"
+  },
+  "902": {
+    "id": "snaildrop",
+    "name": "Snail Drop",
+    "isGame": "1",
+    "internal": "902"
+  }
+}

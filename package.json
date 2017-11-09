@@ -1,0 +1,27 @@
+{
+  "name": "snaildom-rewritten",
+  "version": "1.0.0",
+  "description": "An emulator for Damen's Snaildom.",
+  "main": "run.js",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "caller-id": "^0.1.0",
+    "circular-json": "^0.4.0",
+    "crypto": "^1.0.1",
+    "fs": "0.0.1-security",
+    "knex": "^0.13.0",
+    "libxmljs": "^0.18.7",
+    "mysql": "^2.15.0",
+    "net": "^1.0.2",
+    "promise": "^8.0.1",
+    "sync-mysql": "^3.0.1",
+    "underscore": "^1.8.3",
+    "xml2js": "^0.4.19"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jack",
+  "license": "ISC"
+}

@@ -1,0 +1,22 @@
+{
+	"Database": {
+		"Host": "127.0.0.1",
+		"Port": "3306",
+		"User": "root",
+		"Password": "",
+		"Database": "snaildom",
+		"Client": "MySQL"
+	},
+
+	"Servers": {
+		"1": {
+			"Host": "127.0.0.1",
+			"Port": "5600",
+			"Type": "World",
+			"Name": "Yellow Shell"
+		}
+	},
+
+	"pluginDir": "./Plugins/",
+	"commandPrefix": "/"
+}

@@ -1,0 +1,524 @@
+{
+  "1": {
+    "name": "Shades",
+    "identifier": "glasses",
+    "cost": "100",
+    "type": "head",
+    "internal": "1"
+  },
+  "2": {
+    "name": "Brown Hair",
+    "identifier": "browngirlhair",
+    "cost": "100",
+    "type": "head",
+    "internal": "2"
+  },
+  "3": {
+    "name": "Afro",
+    "identifier": "afro",
+    "cost": "100",
+    "type": "head",
+    "internal": "3"
+  },
+  "4": {
+    "name": "Normal Toblerone",
+    "identifier": "toblerone",
+    "cost": "100",
+    "type": "hand",
+    "internal": "4"
+  },
+  "5": {
+    "name": "Angry Eyebrows",
+    "identifier": "meanbrows",
+    "cost": "100",
+    "type": "face",
+    "internal": "5"
+  },
+  "6": {
+    "name": "Fairy Wings",
+    "identifier": "fairywings",
+    "cost": "100",
+    "type": "body",
+    "internal": "6"
+  },
+  "7": {
+    "name": "DSGHQ Cap",
+    "identifier": "dsghqcap",
+    "cost": "100",
+    "type": "head",
+    "internal": "7"
+  },
+  "8": {
+    "name": "Spikey Hair",
+    "identifier": "spikeyhair",
+    "cost": "100",
+    "type": "head",
+    "internal": "8"
+  },
+  "9": {
+    "name": "Spikey Hair",
+    "identifier": "spikeyhair2",
+    "cost": "100",
+    "type": "head",
+    "internal": "9"
+  },
+  "10": {
+    "name": "Spikey Hair",
+    "identifier": "spikeyhair3",
+    "cost": "100",
+    "type": "head",
+    "internal": "10"
+  },
+  "11": {
+    "name": "Spikey Hair",
+    "identifier": "spikeyhair4",
+    "cost": "100",
+    "type": "head",
+    "internal": "11"
+  },
+  "12": {
+    "name": "Spikey Hair",
+    "identifier": "spikeyhair5",
+    "cost": "100",
+    "type": "head",
+    "internal": "12"
+  },
+  "13": {
+    "name": "Charming Hair",
+    "identifier": "ayer",
+    "cost": "100",
+    "type": "head",
+    "internal": "13"
+  },
+  "14": {
+    "name": "Cat Headband",
+    "identifier": "catears",
+    "cost": "100",
+    "type": "head",
+    "internal": "14"
+  },
+  "15": {
+    "name": "Ice Tiara",
+    "identifier": "icetiara",
+    "cost": "100",
+    "type": "head",
+    "internal": "15"
+  },
+  "16": {
+    "name": "Magic Wand",
+    "identifier": "magicwand",
+    "cost": "100",
+    "type": "toy",
+    "internal": "16"
+  },
+  "17": {
+    "name": "Wise Hat",
+    "identifier": "wisehat",
+    "cost": "100",
+    "type": "head",
+    "internal": "17"
+  },
+  "18": {
+    "name": "Wise Beard",
+    "identifier": "wisebeard",
+    "cost": "100",
+    "type": "face",
+    "internal": "18"
+  },
+  "19": {
+    "name": "Healer's Hat",
+    "identifier": "healerhat",
+    "cost": "100",
+    "type": "head",
+    "internal": "19"
+  },
+  "21": {
+    "name": "Nerdy Glasses",
+    "identifier": "nerdglasses",
+    "cost": "100",
+    "type": "face",
+    "internal": "21"
+  },
+  "22": {
+    "name": "Minxy Shades",
+    "identifier": "minxyshades",
+    "cost": "100",
+    "type": "face",
+    "internal": "22"
+  },
+  "23": {
+    "name": "Moustache",
+    "identifier": "moustache",
+    "cost": "100",
+    "type": "face",
+    "internal": "23"
+  },
+  "24": {
+    "name": "Bunny Ears",
+    "identifier": "bunnyears",
+    "cost": "100",
+    "type": "head",
+    "internal": "24"
+  },
+  "25": {
+    "name": "Sunhat",
+    "identifier": "spikeyhair",
+    "cost": "100",
+    "type": "head",
+    "internal": "25"
+  },
+  "26": {
+    "name": "Microphone",
+    "identifier": "microphone",
+    "cost": "100",
+    "type": "toy",
+    "internal": "26"
+  },
+  "27": {
+    "name": "Purple Pompoms",
+    "identifier": "purplepompoms",
+    "cost": "100",
+    "type": "toy",
+    "internal": "27"
+  },
+  "28": {
+    "name": "Blue Pompoms",
+    "identifier": "bluepompoms",
+    "cost": "100",
+    "type": "toy",
+    "internal": "28"
+  },
+  "29": {
+    "name": "Green Cane",
+    "identifier": "greencane",
+    "cost": "100",
+    "type": "toy",
+    "internal": "29"
+  },
+  "30": {
+    "name": "Red Cane",
+    "identifier": "redcane",
+    "cost": "100",
+    "type": "toy",
+    "internal": "30"
+  },
+  "31": {
+    "name": "Yellow Cane",
+    "identifier": "yellowcane",
+    "cost": "100",
+    "type": "toy",
+    "internal": "31"
+  },
+  "32": {
+    "name": "Blue Cane",
+    "identifier": "bluecane",
+    "cost": "100",
+    "type": "toy",
+    "internal": "32"
+  },
+  "33": {
+    "name": "Squidlord Disguise",
+    "identifier": "squidlord",
+    "cost": "100",
+    "type": "face",
+    "internal": "33"
+  },
+  "34": {
+    "name": "Sparkly Tophat",
+    "identifier": "sparklytophat",
+    "cost": "100",
+    "type": "head",
+    "internal": "34"
+  },
+  "35": {
+    "name": "Cyan Tophat",
+    "identifier": "cyantophat",
+    "cost": "100",
+    "type": "head",
+    "internal": "35"
+  },
+  "36": {
+    "name": "Yellow Tophat",
+    "identifier": "yellowtophat",
+    "cost": "100",
+    "type": "head",
+    "internal": "36"
+  },
+  "37": {
+    "name": "Pink Tophat",
+    "identifier": "pinktophat",
+    "cost": "100",
+    "type": "head",
+    "internal": "37"
+  },
+  "38": {
+    "name": "Red Tophat",
+    "identifier": "redtophat",
+    "cost": "100",
+    "type": "head",
+    "internal": "38"
+  },
+  "39": {
+    "name": "Green Tophat",
+    "identifier": "greentophat",
+    "cost": "100",
+    "type": "head",
+    "internal": "39"
+  },
+  "40": {
+    "name": "Winter Hat",
+    "identifier": "redflophat",
+    "cost": "100",
+    "type": "head",
+    "internal": "40"
+  },
+  "41": {
+    "name": "Propellor Cap",
+    "identifier": "propellor",
+    "cost": "100",
+    "type": "head",
+    "internal": "41"
+  },
+  "42": {
+    "name": "Mr Bean's Teddy",
+    "identifier": "mrbeansteddy",
+    "cost": "100",
+    "type": "toy",
+    "internal": "42"
+  },
+  "43": {
+    "name": "Peach Shell",
+    "identifier": "peach",
+    "cost": "100",
+    "type": "shell",
+    "internal": "43"
+  },
+  "44": {
+    "name": "Bowtie Shell",
+    "identifier": "bowtie",
+    "cost": "100",
+    "type": "shell",
+    "internal": "44"
+  },
+  "45": {
+    "name": "Lime Shell",
+    "identifier": "lime",
+    "cost": "100",
+    "type": "shell",
+    "internal": "45"
+  },
+  "46": {
+    "name": "Dark Green Shell",
+    "identifier": "darkgreen",
+    "cost": "100",
+    "type": "shell",
+    "internal": "46"
+  },
+  "47": {
+    "name": "Ocean Shell",
+    "identifier": "ocean",
+    "cost": "100",
+    "type": "shell",
+    "internal": "47"
+  },
+  "48": {
+    "name": "Purple Dotty Shell",
+    "identifier": "purpledotty",
+    "cost": "100",
+    "type": "shell",
+    "internal": "48"
+  },
+  "49": {
+    "name": "Blue Shell",
+    "identifier": "blue",
+    "cost": "100",
+    "type": "shell",
+    "internal": "49"
+  },
+  "50": {
+    "name": "Green Shell",
+    "identifier": "green",
+    "cost": "100",
+    "type": "shell",
+    "internal": "50"
+  },
+  "51": {
+    "name": "Brown Shell",
+    "identifier": "brown",
+    "cost": "100",
+    "type": "shell",
+    "internal": "51"
+  },
+  "52": {
+    "name": "Yellow Shell",
+    "identifier": "yellow",
+    "cost": "100",
+    "type": "shell",
+    "internal": "52"
+  },
+  "53": {
+    "name": "Cyan Shell",
+    "identifier": "cyan",
+    "cost": "100",
+    "type": "shell",
+    "internal": "53"
+  },
+  "54": {
+    "name": "Snellie Shell",
+    "identifier": "snellie",
+    "cost": "100",
+    "type": "shell",
+    "internal": "54"
+  },
+  "55": {
+    "name": "Pink Shell",
+    "identifier": "pink",
+    "cost": "100",
+    "type": "shell",
+    "internal": "55"
+  },
+  "56": {
+    "name": "Purple Shell",
+    "identifier": "purple",
+    "cost": "100",
+    "type": "shell",
+    "internal": "56"
+  },
+  "57": {
+    "name": "Red Shell",
+    "identifier": "red",
+    "cost": "100",
+    "type": "shell",
+    "internal": "57"
+  },
+  "58": {
+    "name": "Orange Shell",
+    "identifier": "orange",
+    "cost": "100",
+    "type": "shell",
+    "internal": "58"
+  },
+  "59": {
+    "name": "Leopard Shell",
+    "identifier": "leopard",
+    "cost": "100",
+    "type": "shell",
+    "internal": "59"
+  },
+  "60": {
+    "name": "House Drake Banner",
+    "identifier": "drakebanner",
+    "cost": "100",
+    "type": "body",
+    "internal": "60"
+  },
+  "61": {
+    "name": "Trash",
+    "identifier": "stagsbanner",
+    "cost": "0",
+    "type": "body",
+    "internal": "61"
+  },
+  "62": {
+    "name": "House Wolf Banner",
+    "identifier": "wolfbanner",
+    "cost": "100",
+    "type": "body",
+    "internal": "62"
+  },
+  "63": {
+    "name": "House Skeleton Banner",
+    "identifier": "skeletonbanner",
+    "cost": "100",
+    "type": "body",
+    "internal": "63"
+  },
+  "64": {
+    "name": "House Kacket Banner",
+    "identifier": "kacketbanner",
+    "cost": "100",
+    "type": "body",
+    "internal": "64"
+  },
+  "65": {
+    "name": "Yellow Saber",
+    "identifier": "saber_yellow",
+    "cost": "0",
+    "type": "toy",
+    "internal": "65"
+  },
+  "66": {
+    "name": "Red Saber",
+    "identifier": "saber_red",
+    "cost": "0",
+    "type": "toy",
+    "internal": "66"
+  },
+  "67": {
+    "name": "Green Saber",
+    "identifier": "saber_green",
+    "cost": "0",
+    "type": "toy",
+    "internal": "67"
+  },
+  "68": {
+    "name": "Blue Saber",
+    "identifier": "saber_blue",
+    "cost": "0",
+    "type": "toy",
+    "internal": "68"
+  },
+  "69": {
+    "name": "Sword",
+    "identifier": "sword",
+    "cost": "100",
+    "forge": {
+      "iron": "1",
+      "silver": "2",
+      "gold": "3"
+    }
+  },
+  "70": {
+    "name": "Soccer Ball",
+    "identifier": "soccer",
+    "cost": "0",
+    "type": "toy",
+    "internal": "70"
+  },
+  "71": {
+    "name": "Green Pompoms",
+    "identifier": "greenpompoms",
+    "cost": "0",
+    "type": "toy",
+    "internal": "71"
+  },
+  "72": {
+    "name": "Red Pompoms",
+    "identifier": "redpompoms",
+    "cost": "0",
+    "type": "toy",
+    "internal": "72"
+  },
+  "73": {
+    "name": "Team Green",
+    "identifier": "teamgreen",
+    "cost": "0",
+    "type": "toy",
+    "internal": "73"
+  },
+  "74": {
+    "name": "Team Red",
+    "identifier": "teamred",
+    "cost": "0",
+    "type": "toy",
+    "internal": "74"
+  },
+
+  "20": {
+    "name": "3D Glasses",
+    "identifier": "3dglasses",
+    "cost": "100",
+    "type": "head",
+    "internal": "20"
+  }
+}

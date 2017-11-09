@@ -1,0 +1,94 @@
+{
+  "1": {
+    "id": "1",
+    "response": "Rumors",
+    "message": "",
+    "responses": {
+      "1": {
+        "id": "1",
+        "message": "Rumors"
+      },
+      "2": {
+        "id": "2",
+        "message": "Kingdom"
+      },
+      "3": {
+        "id": "3",
+        "message": "Directions"
+      }
+    },
+    "npc": "99993"
+  },
+  "2": {
+    "id": "2",
+    "response": "Kingdom",
+    "message": "This kingdom was set up by King Damen the First.&break; He was the first King to rule Snaildom in the Beta Era and made the Toblerthrone.&break; Made out of 1000 toblerone bars,&break; all eaten by King Damen himself.",
+    "responses": {
+      "1": {
+        "id": "1",
+        "message": "Rumors"
+      },
+      "2": {
+        "id": "2",
+        "message": "Kingdom"
+      },
+      "3": {
+        "id": "3",
+        "message": "Directions"
+      }
+    },
+    "npc": "99993"
+  },
+  "3": {
+    "id": "3",
+    "response": "Directions",
+    "message": "",
+    "responses": {
+      "1": {
+        "id": "1",
+        "message": "Rumors"
+      },
+      "2": {
+        "id": "2",
+        "message": "Kingdom"
+      },
+      "3": {
+        "id": "3",
+        "message": "Directions"
+      }
+    },
+    "npc": "99993"
+  },
+  "4": {
+    "id": "4",
+    "response": "Forging",
+    "message": "Here at the Forge, you can forge items.&break; You can do that by going up to the oven right above.&break; To forge an item, you need to have enough ores and gold.",
+    "responses": {
+      "1": {
+        "id": "4",
+        "message": "Forging"
+      },
+      "2": {
+        "id": "5",
+        "message": "Ore"
+      }
+    },
+    "npc": "99994"
+  },
+  "5": {
+    "id": "5",
+    "response": "Ore",
+    "message": "You can find ores in the Blackmine.&break; There's iron ore,&break; silver ore and gold ore.&break; You currently have {ironOre} iron ore,&break; {silverOre} silver ore and {goldOre} gold ore.",
+    "responses": {
+      "1": {
+        "id": "4",
+        "message": "Forging"
+      },
+      "2": {
+        "id": "5",
+        "message": "Ore"
+      }
+    },
+    "npc": "99994"
+  }
+}

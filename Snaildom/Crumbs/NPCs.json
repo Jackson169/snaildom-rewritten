@@ -1,0 +1,137 @@
+{
+  "1": {
+    "level": 1,
+    "friends": [],
+    "furniture": [],
+    "inventory": [],
+    "toy": "sword",
+    "body": "null",
+    "face": "null",
+    "head": "null",
+    "shell": "yellow",
+    "color": "",
+    "royal": 0,
+    "knight": 0,
+    "rank": 1,
+    "pushFrame": 0,
+    "y": 198,
+    "x": 204.15,
+    "username": "Guard",
+    "id": 99991,
+    "dummy": "1",
+    "room": "courtyard"
+  },
+  "2": {
+    "level": 1,
+    "friends": [],
+    "furniture": [],
+    "inventory": [],
+    "toy": "sword",
+    "body": "null",
+    "face": "null",
+    "head": "null",
+    "shell": "yellow",
+    "color": "",
+    "royal": 0,
+    "knight": 0,
+    "rank": 1,
+    "pushFrame": 0,
+    "y": 199.15,
+    "x": 168.3,
+    "username": "Royal Guard",
+    "id": 99992,
+    "dummy": "1",
+    "room": "thrones",
+    "dialogue": {
+      "message": "Greetings Citizen.",
+      "responses": {
+        "1": {
+          "id": "1",
+          "message": "Rumors"
+        },
+        "2": {
+          "id": "2",
+          "message": "Kingdom"
+        },
+        "3": {
+          "id": "3",
+          "message": "Directions"
+        }
+      }
+    }
+  },
+  "3": {
+    "level": 1,
+    "friends": [],
+    "furniture": [],
+    "inventory": [],
+    "toy": "sword",
+    "body": "null",
+    "face": "null",
+    "head": "null",
+    "shell": "yellow",
+    "color": "",
+    "royal": 0,
+    "knight": 0,
+    "rank": 1,
+    "pushFrame": 0,
+    "y": 199.15,
+    "x": 590,
+    "username": "Royal Guard",
+    "id": 99993,
+    "dummy": "1",
+    "room": "thrones",
+    "dialogue": {
+      "message": "Greetings Citizen.",
+      "responses": {
+        "1": {
+          "id": "1",
+          "message": "Rumors"
+        },
+        "2": {
+          "id": "2",
+          "message": "Kingdom"
+        },
+        "3": {
+          "id": "3",
+          "message": "Directions"
+        }
+      }
+    }
+  },
+  "4": {
+    "level": 1,
+    "friends": [],
+    "furniture": [],
+    "inventory": [],
+    "toy": "hammer",
+    "body": "null",
+    "face": "null",
+    "head": "null",
+    "shell": "yellow",
+    "color": "",
+    "royal": 0,
+    "knight": 0,
+    "rank": 1,
+    "pushFrame": 0,
+    "y": 361.45,
+    "x": 368.75,
+    "username": "Blacksmith",
+    "id": 99994,
+    "dummy": "1",
+    "room": "blacksmith",
+    "dialogue": {
+      "message": "Welcome to my forge. How can I help you?",
+      "responses": {
+        "1": {
+          "id": "4",
+          "message": "Forging"
+        },
+        "2": {
+          "id": "5",
+          "message": "Ore"
+        }
+      }
+    }
+  }
+}
