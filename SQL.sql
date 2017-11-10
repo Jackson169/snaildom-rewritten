@@ -27,7 +27,7 @@ CREATE TABLE IF NOT EXISTS `users` (
   `dead` int(1) NOT NULL DEFAULT '0',
   `rank` int(1) NOT NULL DEFAULT '1',
   `factions` text NOT NULL,
-  `subtitle` varchar(255) NOT NULL,
+  `title` varchar(255) NOT NULL,
   `banned` varchar(11) NOT NULL DEFAULT '0',
   `banDate` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
   `banCount` int(11) NOT NULL DEFAULT '0',
