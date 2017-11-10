@@ -4,6 +4,7 @@
   "description": "An emulator for Damen's Snaildom.",
   "main": "run.js",
   "dependencies": {
+    "base64-min": "^2.0.0",
     "bluebird": "^3.5.1",
     "caller-id": "^0.1.0",
     "circular-json": "^0.4.0",
